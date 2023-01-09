@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MERN-Project](https://github.com/Lishan997/MERN-Project) and [Learn_ConcurrentProgramming] (https://github.com/Lishan997/Learn_ConcurrentProgramming)
+- 🔭 I’m currently working on [MERN-Project](https://github.com/Lishan997/MERN-Project) and [Learn_ConcurrentProgramming](https://github.com/Lishan997/Learn_ConcurrentProgramming)
 
 - 🌱 I’m currently learning **MERN Stack, Concurrent Programming, Flutter and Machine Learning**
 
